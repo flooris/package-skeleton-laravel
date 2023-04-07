@@ -7,7 +7,7 @@
 
 ## Flooris
 ---
-[Flooris visual](https://flooris.nl/img/containers/assets/header-image.webp/38313c04221b34c68cb027ed0d29a7ac.webp)
+![Flooris visual](https://flooris.nl/img/containers/assets/header-image.webp/38313c04221b34c68cb027ed0d29a7ac.webp)
 <!-- ![Some image](assets/flooris-visual.jpg) -->
 
 We are a young and driven team of technicians with a mission. We ensure that our clients' online challenges are solved with manageable and sustainable tools. We connect existing and reliable solutions to each other. This allows us to create customized solutions, often in combination with professional (open-source) packages and APIs. We ensure that all online solutions always perform at the highest level. In addition, we provide professional support without hassle through our service portal.
